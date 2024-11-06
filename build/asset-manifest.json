@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ca57fe02.css",
+    "main.js": "/static/js/main.ac77c39f.js",
+    "static/media/video-1.mp4": "/static/media/video-1.df33709c892b99b9de94.mp4",
+    "static/media/img-8.jpg": "/static/media/img-8.2bd9e5ad8a673c79d9a4.jpg",
+    "static/media/img-2.jpg": "/static/media/img-2.9c5ec4f66cf0c26b9ec6.jpg",
+    "static/media/img-1.jpg": "/static/media/img-1.c1b1d162d1706d9f4e28.jpg",
+    "static/media/img-9.jpg": "/static/media/img-9.ae431f1e4224e09e50ea.jpg",
+    "static/media/img-4.jpg": "/static/media/img-4.0a828ba83c995c99e776.jpg",
+    "static/media/img-3.jpg": "/static/media/img-3.d6c3f20c5cfd697f3d9c.jpg",
+    "static/media/patalarga.png": "/static/media/patalarga.95ea3fc16095c1b6e2fb.png",
+    "index.html": "/index.html",
+    "main.ca57fe02.css.map": "/static/css/main.ca57fe02.css.map",
+    "main.ac77c39f.js.map": "/static/js/main.ac77c39f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca57fe02.css",
+    "static/js/main.ac77c39f.js"
+  ]
+}
